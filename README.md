@@ -29,7 +29,7 @@ Este é um simples gerenciador de produtos em Java que oferece operações bási
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd caminho/para/Gerenciador_de_Produtos
+    cd caminho/para/Produtos_java
     ```
 
 3. Compile o programa:
