@@ -1,5 +1,14 @@
 # Gerenciador de Produtos em Java
 
+
+
+![Gid Produtos](./PRODUTOS.gif)
+
+
+
+
+
+
 Este é um simples gerenciador de produtos em Java que oferece operações básicas de um CRUD (Create, Read, Update, Delete). Ele foi desenvolvido como parte de um processo de aprendizado.
 
 ## Funcionalidades
